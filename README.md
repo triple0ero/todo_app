@@ -1,7 +1,7 @@
 # Yet Another One To-Do App!
 
 This **To-Do App** is a user-friendly task management tool designed to help individuals organize their daily activities efficiently. 
-With a clean and intuitive interface, users can easily add, edit, and delete tasks, ensuring that nothing important is overlooked.
+With a clean and intuitive interface, users can easily add and delete tasks, ensuring that nothing important is overlooked.
 
 Key Features:
 - Task Management: Users can create tasks with titles and descriptions, allowing for detailed tracking of responsibilities.
