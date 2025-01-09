@@ -12,3 +12,19 @@ Key Features:
 - Visual Feedback: The application provides visual cues and warnings to guide users, such as alerts for invalid task entries or reminders to select a task before deletion.
 
 Whether you're managing personal errands, work projects, or study schedules, the To-Do List Application is a versatile tool that helps you stay organized and productive.
+
+# How to use
+
+1) Download the code:
+```
+git clone https://github.com/triple0ero/todo_app.git
+```
+3) Install dependencies:
+```
+pip install -r requirements.txt
+```
+3) Start the app:
+```
+python3 main.py
+```
+4) Enjoy!
